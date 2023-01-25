@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\bin\Debug\net6.0\LitwareLib.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\bin\Debug\net6.0\LitwareLib.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\bin\Debug\net6.0\LitwareLib.pdb
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\refint\LitwareLib.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\LitwareLib.pdb
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment3\LitwareLib\obj\Debug\net6.0\ref\LitwareLib.dll
