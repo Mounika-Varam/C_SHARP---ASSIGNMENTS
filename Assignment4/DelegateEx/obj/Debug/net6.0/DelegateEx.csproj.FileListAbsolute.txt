@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\bin\Debug\net6.0\DelegateEx.exe
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\bin\Debug\net6.0\DelegateEx.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\bin\Debug\net6.0\DelegateEx.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\bin\Debug\net6.0\DelegateEx.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\bin\Debug\net6.0\DelegateEx.pdb
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\refint\DelegateEx.dll
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.pdb
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\DelegateEx.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C#_Assignments\Assignment4\DelegateEx\obj\Debug\net6.0\ref\DelegateEx.dll
